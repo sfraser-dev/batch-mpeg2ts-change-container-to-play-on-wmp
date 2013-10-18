@@ -1,0 +1,14 @@
+*.log
+*.mpg
+*.pkt
+*.db
+
+
+*.swp
+*.dll
+*.zip
+*.tar
+*.rar
+*.gzip
+*.un~
+*.gz
