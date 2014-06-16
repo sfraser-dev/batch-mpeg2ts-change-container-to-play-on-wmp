@@ -1,0 +1,1 @@
+Recursively search for media containers (.mpg). Extrapolate the multiplexing rate by using FFPROBE. Convert media containers using FFMPEG using the extrapolated multiplexing rate into transport stream containers so they will play on Windows Media Player.
